@@ -8,7 +8,7 @@ Features
 • Data loading and preprocessing utilities
 • Exploratory data analysis (EDA) scripts
 • Portfolio optimisation algorithms
-• Risk metrics and evaluation tools
+• Risk metrics and evaluation tools,
 • Experiment configuration and results logging
 Getting Started
 Prerequisites
